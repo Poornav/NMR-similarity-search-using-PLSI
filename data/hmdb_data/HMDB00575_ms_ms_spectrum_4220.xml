@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms-ms>
+  <collection-date nil="true"/>
+  <collision-energy-level nil="true"/>
+  <collision-energy-voltage>30</collision-energy-voltage>
+  <created-at>2012-08-31T15:14:19Z</created-at>
+  <database-id>HMDB00575</database-id>
+  <energy-field nil="true"/>
+  <id>4220</id>
+  <inchi-key>ZTVZLYBCZNMWCF-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>LC-ESI-QQ (API3000, Applied Biosystems)</instrument-type>
+  <ionization-mode>Negative</ionization-mode>
+  <molecule-id nil="true"/>
+  <mono-mass nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>23</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2012-08-31T15:14:19Z</updated-at>
+  <references>
+    <reference>
+      <database>MassBank</database>
+      <database-id>KO001054</database-id>
+      <id>6423</id>
+      <pubmed-id>20623627</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>4220</spectra-id>
+      <spectra-type>MsMs</spectra-type>
+    </reference>
+  </references>
+  <ms-ms-peaks>
+    <ms-ms-peak>
+      <id>370223</id>
+      <intensity>0.026026026</intensity>
+      <mass-charge>45.2</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370224</id>
+      <intensity>0.3793793794</intensity>
+      <mass-charge>59.3</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370225</id>
+      <intensity>0.021021021</intensity>
+      <mass-charge>59.5</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370226</id>
+      <intensity>0.1791791792</intensity>
+      <mass-charge>71.1</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370227</id>
+      <intensity>0.7837837838</intensity>
+      <mass-charge>71.8</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370228</id>
+      <intensity>0.0890890891</intensity>
+      <mass-charge>72.5</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370229</id>
+      <intensity>0.1261261261</intensity>
+      <mass-charge>78.8</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370230</id>
+      <intensity>0.032032032</intensity>
+      <mass-charge>85.0</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370231</id>
+      <intensity>0.2892892893</intensity>
+      <mass-charge>87.9</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370232</id>
+      <intensity>0.0890890891</intensity>
+      <mass-charge>92.7</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370233</id>
+      <intensity>0.1101101101</intensity>
+      <mass-charge>96.7</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370234</id>
+      <intensity>0.042042042</intensity>
+      <mass-charge>102.8</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370235</id>
+      <intensity>1.0</intensity>
+      <mass-charge>115.2</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370236</id>
+      <intensity>0.047047047</intensity>
+      <mass-charge>128.8</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370237</id>
+      <intensity>0.3733733734</intensity>
+      <mass-charge>132.0</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370238</id>
+      <intensity>0.2162162162</intensity>
+      <mass-charge>133.8</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370239</id>
+      <intensity>0.032032032</intensity>
+      <mass-charge>137.3</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370240</id>
+      <intensity>0.042042042</intensity>
+      <mass-charge>142.7</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370241</id>
+      <intensity>0.047047047</intensity>
+      <mass-charge>150.8</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370242</id>
+      <intensity>0.021021021</intensity>
+      <mass-charge>165.0</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370243</id>
+      <intensity>0.1421421421</intensity>
+      <mass-charge>205.6</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370244</id>
+      <intensity>0.3893893894</intensity>
+      <mass-charge>207.6</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>370245</id>
+      <intensity>0.026026026</intensity>
+      <mass-charge>221.2</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4220</ms-ms-id>
+    </ms-ms-peak>
+  </ms-ms-peaks>
+</ms-ms>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms-ms>
+  <collection-date nil="true"/>
+  <collision-energy-level nil="true"/>
+  <collision-energy-voltage>50</collision-energy-voltage>
+  <created-at>2012-08-31T15:04:43Z</created-at>
+  <database-id>HMDB00197</database-id>
+  <energy-field nil="true"/>
+  <id>3574</id>
+  <inchi-key>SEOVTRFCIGRIMH-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>LC-ESI-QQ (API3000, Applied Biosystems)</instrument-type>
+  <ionization-mode>Negative</ionization-mode>
+  <molecule-id nil="true"/>
+  <mono-mass nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>4</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2012-08-31T15:04:43Z</updated-at>
+  <references>
+    <reference>
+      <database>MassBank</database>
+      <database-id>KO001230</database-id>
+      <id>5776</id>
+      <pubmed-id>20623627</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>3574</spectra-id>
+      <spectra-type>MsMs</spectra-type>
+    </reference>
+  </references>
+  <ms-ms-peaks>
+    <ms-ms-peak>
+      <id>330528</id>
+      <intensity>0.1161161161</intensity>
+      <mass-charge>114.2</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3574</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>330529</id>
+      <intensity>0.1161161161</intensity>
+      <mass-charge>115.1</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3574</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>330530</id>
+      <intensity>1.0</intensity>
+      <mass-charge>128.0</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3574</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>330531</id>
+      <intensity>0.0930930931</intensity>
+      <mass-charge>130.7</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3574</ms-ms-id>
+    </ms-ms-peak>
+  </ms-ms-peaks>
+</ms-ms>

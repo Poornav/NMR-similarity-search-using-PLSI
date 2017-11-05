@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-two-d>
+  <chemical-shift-reference>DSS</chemical-shift-reference>
+  <collection-date>2008-07-03</collection-date>
+  <created-at>2012-12-05T02:57:49Z</created-at>
+  <database-id>HMDB02931</database-id>
+  <frequency>500 MHz</frequency>
+  <id>1852</id>
+  <inchi-key>JJIHLJJYMXLCOY-BYPYZUCNSA-N</inchi-key>
+  <instrument-type>Varian</instrument-type>
+  <molecule-id nil="true"/>
+  <notes>HSQC</notes>
+  <nucleus-x>1H</nucleus-x>
+  <nucleus-y>13C</nucleus-y>
+  <peak-counter>2</peak-counter>
+  <sample-assessment>Satisfactory</sample-assessment>
+  <sample-concentration>50.0</sample-concentration>
+  <sample-concentration-units>mM</sample-concentration-units>
+  <sample-mass>5.1</sample-mass>
+  <sample-mass-units>mg</sample-mass-units>
+  <sample-ph>3.50</sample-ph>
+  <sample-source nil="true"/>
+  <sample-temperature>25.0</sample-temperature>
+  <sample-temperature-units>Celcius</sample-temperature-units>
+  <searchable nil="true"/>
+  <solvent>Water</solvent>
+  <spectra-assessment>Satisfactory</spectra-assessment>
+  <updated-at>2012-12-05T02:57:49Z</updated-at>
+  <references>
+    <reference>
+      <database>HMDB</database>
+      <database-id>HMDB02931</database-id>
+      <id>12135</id>
+      <pubmed-id>18953024</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1852</spectra-id>
+      <spectra-type>NmrTwoD</spectra-type>
+    </reference>
+  </references>
+  <nmr-two-d-peaks>
+    <nmr-two-d-peak>
+      <chemical-shift-x>2.03</chemical-shift-x>
+      <chemical-shift-y>24.22</chemical-shift-y>
+      <id>20542</id>
+      <intensity>1.0</intensity>
+      <nmr-two-d-id>1852</nmr-two-d-id>
+    </nmr-two-d-peak>
+    <nmr-two-d-peak>
+      <chemical-shift-x>3.85</chemical-shift-x>
+      <chemical-shift-y>64.4</chemical-shift-y>
+      <id>20543</id>
+      <intensity>0.606557377</intensity>
+      <nmr-two-d-id>1852</nmr-two-d-id>
+    </nmr-two-d-peak>
+  </nmr-two-d-peaks>
+</nmr-two-d>

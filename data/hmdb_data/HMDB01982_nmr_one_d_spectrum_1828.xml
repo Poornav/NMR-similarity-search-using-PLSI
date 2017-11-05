@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-one-d>
+  <chemical-shift-reference>DSS</chemical-shift-reference>
+  <collection-date>2007-11-20</collection-date>
+  <created-at>2012-12-05T01:14:23Z</created-at>
+  <database-id>HMDB01982</database-id>
+  <frequency>600 MHz</frequency>
+  <id>1828</id>
+  <inchi-key>HMLZLHKHNBLLJD-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>Bruker</instrument-type>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <nucleus>1H</nucleus>
+  <peak-counter>3</peak-counter>
+  <sample-assessment>Excellent</sample-assessment>
+  <sample-concentration>25.0</sample-concentration>
+  <sample-concentration-units>mM</sample-concentration-units>
+  <sample-mass>5.0</sample-mass>
+  <sample-mass-units>mg</sample-mass-units>
+  <sample-ph>7.00</sample-ph>
+  <sample-source nil="true"/>
+  <sample-temperature>25.0</sample-temperature>
+  <sample-temperature-units>Celcius</sample-temperature-units>
+  <searchable>true</searchable>
+  <solvent>Water</solvent>
+  <spectra-assessment>Excellent</spectra-assessment>
+  <updated-at>2013-07-01T05:47:46Z</updated-at>
+  <references>
+    <reference>
+      <database>HMDB</database>
+      <database-id>HMDB01982</database-id>
+      <id>11311</id>
+      <pubmed-id>18953024</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1828</spectra-id>
+      <spectra-type>NmrOneD</spectra-type>
+    </reference>
+  </references>
+  <nmr-one-d-peaks>
+    <nmr-one-d-peak>
+      <chemical-shift>3.35</chemical-shift>
+      <id>51343</id>
+      <intensity>100.0</intensity>
+      <nmr-one-d-id>1828</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>3.39</chemical-shift>
+      <id>51344</id>
+      <intensity>8.41</intensity>
+      <nmr-one-d-id>1828</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>3.4</chemical-shift>
+      <id>51345</id>
+      <intensity>98.98</intensity>
+      <nmr-one-d-id>1828</nmr-one-d-id>
+    </nmr-one-d-peak>
+  </nmr-one-d-peaks>
+</nmr-one-d>

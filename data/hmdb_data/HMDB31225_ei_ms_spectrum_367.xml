@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ei-ms>
+  <collection-date nil="true"/>
+  <created-at>2014-09-20T16:26:26Z</created-at>
+  <database-id>HMDB31225</database-id>
+  <id>367</id>
+  <inchi-key>PIICEJLVQHRZGT-UHFFFAOYSA-N</inchi-key>
+  <instrument-type nil="true"/>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>3</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2014-09-20T16:26:26Z</updated-at>
+  <references>
+    <reference>
+      <database>NIST</database>
+      <database-id>460-19-5</database-id>
+      <id>15239</id>
+      <pubmed-id nil="true"/>
+      <ref-text>NIST Mass Spec Data Center, S.E. Stein, director, "Mass Spectra" in NIST Chemistry WebBook, NIST Standard Reference Database Number 69, Eds. P.J. Linstrom and W.G. Mallard, National Institute of Standards and Technology, Gaithersburg MD, 20899, http://webbook.nist.gov, (retrieved September 6, 2014).</ref-text>
+      <spectra-id>367</spectra-id>
+      <spectra-type>EiMs</spectra-type>
+    </reference>
+  </references>
+  <ei-ms-peaks>
+    <ei-ms-peak>
+      <ei-ms-id>367</ei-ms-id>
+      <id>41119</id>
+      <intensity>470.0</intensity>
+      <mass-charge>26.0</mass-charge>
+    </ei-ms-peak>
+    <ei-ms-peak>
+      <ei-ms-id>367</ei-ms-id>
+      <id>41120</id>
+      <intensity>9999.0</intensity>
+      <mass-charge>52.0</mass-charge>
+    </ei-ms-peak>
+    <ei-ms-peak>
+      <ei-ms-id>367</ei-ms-id>
+      <id>41121</id>
+      <intensity>310.0</intensity>
+      <mass-charge>53.0</mass-charge>
+    </ei-ms-peak>
+  </ei-ms-peaks>
+</ei-ms>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-two-d>
+  <chemical-shift-reference nil="true"/>
+  <collection-date nil="true"/>
+  <created-at>2012-12-04T22:56:01Z</created-at>
+  <database-id>HMDB00142</database-id>
+  <frequency nil="true"/>
+  <id>967</id>
+  <inchi-key>BDAGIHXWWSANSR-UHFFFAOYSA-N</inchi-key>
+  <instrument-type nil="true"/>
+  <molecule-id nil="true"/>
+  <notes>TOCSY</notes>
+  <nucleus-x>1H</nucleus-x>
+  <nucleus-y>1H</nucleus-y>
+  <peak-counter>1</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-ph nil="true"/>
+  <sample-source nil="true"/>
+  <sample-temperature nil="true"/>
+  <sample-temperature-units nil="true"/>
+  <searchable>true</searchable>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2012-12-05T16:08:47Z</updated-at>
+  <references>
+    <reference>
+      <database>BMRB</database>
+      <database-id>HMDB00142</database-id>
+      <id>10617</id>
+      <pubmed-id nil="true"/>
+      <ref-text nil="true"/>
+      <spectra-id>967</spectra-id>
+      <spectra-type>NmrTwoD</spectra-type>
+    </reference>
+  </references>
+  <nmr-two-d-peaks>
+    <nmr-two-d-peak>
+      <chemical-shift-x>8.47</chemical-shift-x>
+      <chemical-shift-y>8.465</chemical-shift-y>
+      <id>8451</id>
+      <intensity nil="true"/>
+      <nmr-two-d-id>967</nmr-two-d-id>
+    </nmr-two-d-peak>
+  </nmr-two-d-peaks>
+</nmr-two-d>

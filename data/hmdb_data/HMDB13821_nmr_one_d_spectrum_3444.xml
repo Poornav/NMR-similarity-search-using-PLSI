@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-one-d>
+  <chemical-shift-reference>TMS</chemical-shift-reference>
+  <collection-date nil="true"/>
+  <created-at>2014-09-23T20:12:24Z</created-at>
+  <database-id>HMDB13821</database-id>
+  <frequency>15.09 MHz</frequency>
+  <id>3444</id>
+  <inchi-key>PTTPXKJBFFKCEK-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>NEVA</instrument-type>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <nucleus>13C</nucleus>
+  <peak-counter>4</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-ph nil="true"/>
+  <sample-source nil="true"/>
+  <sample-temperature nil="true"/>
+  <sample-temperature-units nil="true"/>
+  <searchable>true</searchable>
+  <solvent>CDCl3</solvent>
+  <spectra-assessment nil="true"/>
+  <updated-at>2014-09-23T20:12:24Z</updated-at>
+  <references>
+    <reference>
+      <database>SDBS</database>
+      <database-id>818</database-id>
+      <id>17596</id>
+      <pubmed-id nil="true"/>
+      <ref-text>SDBSWeb : http://sdbs.riodb.aist.go.jp (National Institute of Advanced Industrial Science and Technology, September 8, 2014)</ref-text>
+      <spectra-id>3444</spectra-id>
+      <spectra-type>NmrOneD</spectra-type>
+    </reference>
+  </references>
+  <nmr-one-d-peaks>
+    <nmr-one-d-peak>
+      <chemical-shift>210.54</chemical-shift>
+      <id>79765</id>
+      <intensity>57.0</intensity>
+      <nmr-one-d-id>3444</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>52.38</chemical-shift>
+      <id>79766</id>
+      <intensity>603.0</intensity>
+      <nmr-one-d-id>3444</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>24.52</chemical-shift>
+      <id>79767</id>
+      <intensity>460.0</intensity>
+      <nmr-one-d-id>3444</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>22.62</chemical-shift>
+      <id>79768</id>
+      <intensity>1000.0</intensity>
+      <nmr-one-d-id>3444</nmr-one-d-id>
+    </nmr-one-d-peak>
+  </nmr-one-d-peaks>
+</nmr-one-d>

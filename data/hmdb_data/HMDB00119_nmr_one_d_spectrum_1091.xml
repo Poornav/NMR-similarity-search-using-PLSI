@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-one-d>
+  <chemical-shift-reference>DSS</chemical-shift-reference>
+  <collection-date>2006-09-01</collection-date>
+  <created-at>2012-12-04T22:51:39Z</created-at>
+  <database-id>HMDB00119</database-id>
+  <frequency>600 MHz</frequency>
+  <id>1091</id>
+  <inchi-key>HHLFWLYXYJOTON-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>Varian</instrument-type>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <nucleus>1H</nucleus>
+  <peak-counter>2</peak-counter>
+  <sample-assessment>Excellent</sample-assessment>
+  <sample-concentration>15.0</sample-concentration>
+  <sample-concentration-units>mM</sample-concentration-units>
+  <sample-mass>0.0114</sample-mass>
+  <sample-mass-units>G</sample-mass-units>
+  <sample-ph>7.00</sample-ph>
+  <sample-source nil="true"/>
+  <sample-temperature>25.0</sample-temperature>
+  <sample-temperature-units>Celcius</sample-temperature-units>
+  <searchable>true</searchable>
+  <solvent>Water</solvent>
+  <spectra-assessment>Excellent</spectra-assessment>
+  <updated-at>2013-07-01T05:31:57Z</updated-at>
+  <references>
+    <reference>
+      <database>HMDB</database>
+      <database-id>HMDB00119</database-id>
+      <id>10229</id>
+      <pubmed-id>18953024</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1091</spectra-id>
+      <spectra-type>NmrOneD</spectra-type>
+    </reference>
+  </references>
+  <nmr-one-d-peaks>
+    <nmr-one-d-peak>
+      <chemical-shift>9.39</chemical-shift>
+      <id>30989</id>
+      <intensity>7.07</intensity>
+      <nmr-one-d-id>1091</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>5.09</chemical-shift>
+      <id>30990</id>
+      <intensity>100.0</intensity>
+      <nmr-one-d-id>1091</nmr-one-d-id>
+    </nmr-one-d-peak>
+  </nmr-one-d-peaks>
+</nmr-one-d>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-one-d>
+  <chemical-shift-reference>TSP</chemical-shift-reference>
+  <collection-date nil="true"/>
+  <created-at>2014-09-20T22:14:59Z</created-at>
+  <database-id>HMDB00925</database-id>
+  <frequency>300 MHz</frequency>
+  <id>2177</id>
+  <inchi-key>UYPYRKYUKCHHIB-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>JEOL</instrument-type>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <nucleus>1H</nucleus>
+  <peak-counter>1</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-ph nil="true"/>
+  <sample-source nil="true"/>
+  <sample-temperature nil="true"/>
+  <sample-temperature-units nil="true"/>
+  <searchable>true</searchable>
+  <solvent>D2O</solvent>
+  <spectra-assessment nil="true"/>
+  <updated-at>2014-09-20T22:14:59Z</updated-at>
+  <references>
+    <reference>
+      <database>SDBS</database>
+      <database-id>3643</database-id>
+      <id>16329</id>
+      <pubmed-id nil="true"/>
+      <ref-text>SDBSWeb : http://sdbs.riodb.aist.go.jp (National Institute of Advanced Industrial Science and Technology, September 8, 2014)</ref-text>
+      <spectra-id>2177</spectra-id>
+      <spectra-type>NmrOneD</spectra-type>
+    </reference>
+  </references>
+  <nmr-one-d-peaks>
+    <nmr-one-d-peak>
+      <chemical-shift>3.26</chemical-shift>
+      <id>60250</id>
+      <intensity>1000.0</intensity>
+      <nmr-one-d-id>2177</nmr-one-d-id>
+    </nmr-one-d-peak>
+  </nmr-one-d-peaks>
+</nmr-one-d>

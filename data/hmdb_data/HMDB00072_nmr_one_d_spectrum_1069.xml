@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-one-d>
+  <chemical-shift-reference>DSS</chemical-shift-reference>
+  <collection-date>2005-09-02</collection-date>
+  <created-at>2012-12-04T22:51:15Z</created-at>
+  <database-id>HMDB00072</database-id>
+  <frequency>600 MHz</frequency>
+  <id>1069</id>
+  <inchi-key>GTZCVFVGUGFEME-IWQZZHSRSA-N</inchi-key>
+  <instrument-type>Varian</instrument-type>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <nucleus>1H</nucleus>
+  <peak-counter>3</peak-counter>
+  <sample-assessment>Excellent</sample-assessment>
+  <sample-concentration>37.0</sample-concentration>
+  <sample-concentration-units>mM</sample-concentration-units>
+  <sample-mass>0.0179</sample-mass>
+  <sample-mass-units>G</sample-mass-units>
+  <sample-ph>7.00</sample-ph>
+  <sample-source nil="true"/>
+  <sample-temperature>25.0</sample-temperature>
+  <sample-temperature-units>Celcius</sample-temperature-units>
+  <searchable>true</searchable>
+  <solvent>Water</solvent>
+  <spectra-assessment>Excellent</spectra-assessment>
+  <updated-at>2012-12-05T17:00:07Z</updated-at>
+  <references>
+    <reference>
+      <database>HMDB</database>
+      <database-id>HMDB00072</database-id>
+      <id>10207</id>
+      <pubmed-id>18953024</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1069</spectra-id>
+      <spectra-type>NmrOneD</spectra-type>
+    </reference>
+  </references>
+  <nmr-one-d-peaks>
+    <nmr-one-d-peak>
+      <chemical-shift>3.43</chemical-shift>
+      <id>30523</id>
+      <intensity>94.9</intensity>
+      <nmr-one-d-id>1069</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>3.44</chemical-shift>
+      <id>30524</id>
+      <intensity>100.0</intensity>
+      <nmr-one-d-id>1069</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>6.58</chemical-shift>
+      <id>30525</id>
+      <intensity>48.05</intensity>
+      <nmr-one-d-id>1069</nmr-one-d-id>
+    </nmr-one-d-peak>
+  </nmr-one-d-peaks>
+</nmr-one-d>

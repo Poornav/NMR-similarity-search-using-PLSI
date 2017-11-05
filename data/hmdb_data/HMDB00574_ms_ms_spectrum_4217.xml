@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms-ms>
+  <collection-date nil="true"/>
+  <collision-energy-level nil="true"/>
+  <collision-energy-voltage nil="true"/>
+  <created-at>2012-08-31T15:14:17Z</created-at>
+  <database-id>HMDB00574</database-id>
+  <energy-field nil="true"/>
+  <id>4217</id>
+  <inchi-key>XUJNEKJLAYXESH-REOHCLBHSA-N</inchi-key>
+  <instrument-type>CE-ESI-TOF (CE-system connected to 6210 Time-of-Flight MS, Agilent)</instrument-type>
+  <ionization-mode>Positive</ionization-mode>
+  <molecule-id nil="true"/>
+  <mono-mass nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>1</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2012-08-31T15:14:17Z</updated-at>
+  <references>
+    <reference>
+      <database>MassBank</database>
+      <database-id>PR030005</database-id>
+      <id>6420</id>
+      <pubmed-id>20623627</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>4217</spectra-id>
+      <spectra-type>MsMs</spectra-type>
+    </reference>
+  </references>
+  <ms-ms-peaks>
+    <ms-ms-peak>
+      <id>370162</id>
+      <intensity>1.0</intensity>
+      <mass-charge>122.0258</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>4217</ms-ms-id>
+    </ms-ms-peak>
+  </ms-ms-peaks>
+</ms-ms>

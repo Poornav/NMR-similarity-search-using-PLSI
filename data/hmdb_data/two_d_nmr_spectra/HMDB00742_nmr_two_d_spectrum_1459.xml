@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-two-d>
+  <chemical-shift-reference>DSS</chemical-shift-reference>
+  <collection-date>2007-09-21</collection-date>
+  <created-at>2012-12-05T02:27:33Z</created-at>
+  <database-id>HMDB00742</database-id>
+  <frequency>600 MHz</frequency>
+  <id>1459</id>
+  <inchi-key>FFFHZYDWPBMWHY-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>Bruker</instrument-type>
+  <molecule-id nil="true"/>
+  <notes>HSQC</notes>
+  <nucleus-x>1H</nucleus-x>
+  <nucleus-y>13C</nucleus-y>
+  <peak-counter>3</peak-counter>
+  <sample-assessment>Excellent</sample-assessment>
+  <sample-concentration>34.8</sample-concentration>
+  <sample-concentration-units>mM</sample-concentration-units>
+  <sample-mass>4.7</sample-mass>
+  <sample-mass-units>mg</sample-mass-units>
+  <sample-ph>7.00</sample-ph>
+  <sample-source nil="true"/>
+  <sample-temperature>25.0</sample-temperature>
+  <sample-temperature-units>Celcius</sample-temperature-units>
+  <searchable>true</searchable>
+  <solvent>Water</solvent>
+  <spectra-assessment>Excellent</spectra-assessment>
+  <updated-at>2012-12-05T16:42:03Z</updated-at>
+  <references>
+    <reference>
+      <database>HMDB</database>
+      <database-id>HMDB00742</database-id>
+      <id>11742</id>
+      <pubmed-id>18953024</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1459</spectra-id>
+      <spectra-type>NmrTwoD</spectra-type>
+    </reference>
+  </references>
+  <nmr-two-d-peaks>
+    <nmr-two-d-peak>
+      <chemical-shift-x>3.8708</chemical-shift-x>
+      <chemical-shift-y>56.412</chemical-shift-y>
+      <id>17325</id>
+      <intensity>1.0</intensity>
+      <nmr-two-d-id>1459</nmr-two-d-id>
+    </nmr-two-d-peak>
+    <nmr-two-d-peak>
+      <chemical-shift-x>2.6566</chemical-shift-x>
+      <chemical-shift-y>22.5677</chemical-shift-y>
+      <id>17326</id>
+      <intensity>0.7305124472</intensity>
+      <nmr-two-d-id>1459</nmr-two-d-id>
+    </nmr-two-d-peak>
+    <nmr-two-d-peak>
+      <chemical-shift-x>2.1497</chemical-shift-x>
+      <chemical-shift-y>37.3466</chemical-shift-y>
+      <id>17327</id>
+      <intensity>0.4896077006</intensity>
+      <nmr-two-d-id>1459</nmr-two-d-id>
+    </nmr-two-d-peak>
+  </nmr-two-d-peaks>
+</nmr-two-d>

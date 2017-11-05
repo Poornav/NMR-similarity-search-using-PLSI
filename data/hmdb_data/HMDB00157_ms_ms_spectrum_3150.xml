@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms-ms>
+  <collection-date nil="true"/>
+  <collision-energy-level nil="true"/>
+  <collision-energy-voltage>40</collision-energy-voltage>
+  <created-at>2012-08-31T14:57:54Z</created-at>
+  <database-id>HMDB00157</database-id>
+  <energy-field nil="true"/>
+  <id>3150</id>
+  <inchi-key>FDGQSTZJBFJUBT-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>LC-ESI-QQ (API3000, Applied Biosystems)</instrument-type>
+  <ionization-mode>Positive</ionization-mode>
+  <molecule-id nil="true"/>
+  <mono-mass nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>2</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2012-08-31T14:57:54Z</updated-at>
+  <references>
+    <reference>
+      <database>MassBank</database>
+      <database-id>KO003076</database-id>
+      <id>5352</id>
+      <pubmed-id>20623627</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>3150</spectra-id>
+      <spectra-type>MsMs</spectra-type>
+    </reference>
+  </references>
+  <ms-ms-peaks>
+    <ms-ms-peak>
+      <id>303227</id>
+      <intensity>0.035035035</intensity>
+      <mass-charge>42.1</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3150</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>303228</id>
+      <intensity>1.0</intensity>
+      <mass-charge>69.3</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3150</ms-ms-id>
+    </ms-ms-peak>
+  </ms-ms-peaks>
+</ms-ms>

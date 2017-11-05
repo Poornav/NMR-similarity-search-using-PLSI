@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-two-d>
+  <chemical-shift-reference>DSS</chemical-shift-reference>
+  <collection-date>2012-09-12</collection-date>
+  <created-at>2012-12-05T03:02:23Z</created-at>
+  <database-id>HMDB11634</database-id>
+  <frequency>500 MHz</frequency>
+  <id>1985</id>
+  <inchi-key>OTBHHUPVCYLGQO-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>Varian</instrument-type>
+  <molecule-id nil="true"/>
+  <notes>HSQC</notes>
+  <nucleus-x>1H</nucleus-x>
+  <nucleus-y>13C</nucleus-y>
+  <peak-counter>3</peak-counter>
+  <sample-assessment>Excellent</sample-assessment>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-ph>7.00</sample-ph>
+  <sample-source nil="true"/>
+  <sample-temperature>25.0</sample-temperature>
+  <sample-temperature-units>Celcius</sample-temperature-units>
+  <searchable nil="true"/>
+  <solvent>Water</solvent>
+  <spectra-assessment>Excellent</spectra-assessment>
+  <updated-at>2012-12-05T03:02:23Z</updated-at>
+  <references>
+    <reference>
+      <database>HMDB</database>
+      <database-id>HMDB11634</database-id>
+      <id>12268</id>
+      <pubmed-id>18953024</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1985</spectra-id>
+      <spectra-type>NmrTwoD</spectra-type>
+    </reference>
+  </references>
+  <nmr-two-d-peaks>
+    <nmr-two-d-peak>
+      <chemical-shift-x>1.56</chemical-shift-x>
+      <chemical-shift-y>31.05</chemical-shift-y>
+      <id>21494</id>
+      <intensity>0.5204081633</intensity>
+      <nmr-two-d-id>1985</nmr-two-d-id>
+    </nmr-two-d-peak>
+    <nmr-two-d-peak>
+      <chemical-shift-x>2.54</chemical-shift-x>
+      <chemical-shift-y>46.57</chemical-shift-y>
+      <id>21495</id>
+      <intensity>1.0</intensity>
+      <nmr-two-d-id>1985</nmr-two-d-id>
+    </nmr-two-d-peak>
+    <nmr-two-d-peak>
+      <chemical-shift-x>2.61</chemical-shift-x>
+      <chemical-shift-y>39.06</chemical-shift-y>
+      <id>21496</id>
+      <intensity>0.9183673469</intensity>
+      <nmr-two-d-id>1985</nmr-two-d-id>
+    </nmr-two-d-peak>
+  </nmr-two-d-peaks>
+</nmr-two-d>

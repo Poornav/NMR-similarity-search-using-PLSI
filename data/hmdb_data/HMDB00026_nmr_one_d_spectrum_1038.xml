@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-one-d>
+  <chemical-shift-reference>DSS</chemical-shift-reference>
+  <collection-date>2006-05-03</collection-date>
+  <created-at>2012-12-04T22:50:39Z</created-at>
+  <database-id>HMDB00026</database-id>
+  <frequency>500 MHz</frequency>
+  <id>1038</id>
+  <inchi-key>JSJWCHRYRHKBBW-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>Varian</instrument-type>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <nucleus>1H</nucleus>
+  <peak-counter>7</peak-counter>
+  <sample-assessment>Excellent</sample-assessment>
+  <sample-concentration>12.0</sample-concentration>
+  <sample-concentration-units>mM</sample-concentration-units>
+  <sample-mass>1.2</sample-mass>
+  <sample-mass-units>mg</sample-mass-units>
+  <sample-ph>7.00</sample-ph>
+  <sample-source nil="true"/>
+  <sample-temperature>25.0</sample-temperature>
+  <sample-temperature-units>Celcius</sample-temperature-units>
+  <searchable>true</searchable>
+  <solvent>Water</solvent>
+  <spectra-assessment>Excellent</spectra-assessment>
+  <updated-at>2012-12-05T15:35:10Z</updated-at>
+  <references>
+    <reference>
+      <database>HMDB</database>
+      <database-id>HMDB00026</database-id>
+      <id>10176</id>
+      <pubmed-id>18953024</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1038</spectra-id>
+      <spectra-type>NmrOneD</spectra-type>
+    </reference>
+  </references>
+  <nmr-one-d-peaks>
+    <nmr-one-d-peak>
+      <chemical-shift>2.35</chemical-shift>
+      <id>29221</id>
+      <intensity>49.04</intensity>
+      <nmr-one-d-id>1038</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>2.36</chemical-shift>
+      <id>29222</id>
+      <intensity>100.0</intensity>
+      <nmr-one-d-id>1038</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>2.38</chemical-shift>
+      <id>29223</id>
+      <intensity>50.52</intensity>
+      <nmr-one-d-id>1038</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>3.28</chemical-shift>
+      <id>29224</id>
+      <intensity>25.69</intensity>
+      <nmr-one-d-id>1038</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>3.29</chemical-shift>
+      <id>29225</id>
+      <intensity>59.56</intensity>
+      <nmr-one-d-id>1038</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>3.3</chemical-shift>
+      <id>29226</id>
+      <intensity>53.94</intensity>
+      <nmr-one-d-id>1038</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>3.31</chemical-shift>
+      <id>29227</id>
+      <intensity>21.79</intensity>
+      <nmr-one-d-id>1038</nmr-one-d-id>
+    </nmr-one-d-peak>
+  </nmr-one-d-peaks>
+</nmr-one-d>

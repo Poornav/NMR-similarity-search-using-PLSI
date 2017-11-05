@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ei-ms>
+  <collection-date nil="true"/>
+  <created-at>2014-09-20T16:25:49Z</created-at>
+  <database-id>HMDB60292</database-id>
+  <id>342</id>
+  <inchi-key>LELOWRISYMNNSU-UHFFFAOYSA-N</inchi-key>
+  <instrument-type nil="true"/>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>8</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2014-09-20T16:25:49Z</updated-at>
+  <references>
+    <reference>
+      <database>NIST</database>
+      <database-id>74-90-8</database-id>
+      <id>15214</id>
+      <pubmed-id nil="true"/>
+      <ref-text>NIST Mass Spec Data Center, S.E. Stein, director, "Mass Spectra" in NIST Chemistry WebBook, NIST Standard Reference Database Number 69, Eds. P.J. Linstrom and W.G. Mallard, National Institute of Standards and Technology, Gaithersburg MD, 20899, http://webbook.nist.gov, (retrieved September 6, 2014).</ref-text>
+      <spectra-id>342</spectra-id>
+      <spectra-type>EiMs</spectra-type>
+    </reference>
+  </references>
+  <ei-ms-peaks>
+    <ei-ms-peak>
+      <ei-ms-id>342</ei-ms-id>
+      <id>38494</id>
+      <intensity>420.0</intensity>
+      <mass-charge>12.0</mass-charge>
+    </ei-ms-peak>
+    <ei-ms-peak>
+      <ei-ms-id>342</ei-ms-id>
+      <id>38495</id>
+      <intensity>170.0</intensity>
+      <mass-charge>13.0</mass-charge>
+    </ei-ms-peak>
+    <ei-ms-peak>
+      <ei-ms-id>342</ei-ms-id>
+      <id>38496</id>
+      <intensity>170.0</intensity>
+      <mass-charge>14.0</mass-charge>
+    </ei-ms-peak>
+    <ei-ms-peak>
+      <ei-ms-id>342</ei-ms-id>
+      <id>38497</id>
+      <intensity>10.0</intensity>
+      <mass-charge>15.0</mass-charge>
+    </ei-ms-peak>
+    <ei-ms-peak>
+      <ei-ms-id>342</ei-ms-id>
+      <id>38498</id>
+      <intensity>1682.0</intensity>
+      <mass-charge>26.0</mass-charge>
+    </ei-ms-peak>
+    <ei-ms-peak>
+      <ei-ms-id>342</ei-ms-id>
+      <id>38499</id>
+      <intensity>9999.0</intensity>
+      <mass-charge>27.0</mass-charge>
+    </ei-ms-peak>
+    <ei-ms-peak>
+      <ei-ms-id>342</ei-ms-id>
+      <id>38500</id>
+      <intensity>170.0</intensity>
+      <mass-charge>28.0</mass-charge>
+    </ei-ms-peak>
+    <ei-ms-peak>
+      <ei-ms-id>342</ei-ms-id>
+      <id>38501</id>
+      <intensity>10.0</intensity>
+      <mass-charge>29.0</mass-charge>
+    </ei-ms-peak>
+  </ei-ms-peaks>
+</ei-ms>

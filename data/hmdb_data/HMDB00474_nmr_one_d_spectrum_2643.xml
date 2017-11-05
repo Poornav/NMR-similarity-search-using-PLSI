@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-one-d>
+  <chemical-shift-reference>TMS</chemical-shift-reference>
+  <collection-date nil="true"/>
+  <created-at>2014-09-20T22:18:32Z</created-at>
+  <database-id>HMDB00474</database-id>
+  <frequency>90 MHz</frequency>
+  <id>2643</id>
+  <inchi-key>ZWEHNKRNPOVVGH-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>JEOL</instrument-type>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <nucleus>1H</nucleus>
+  <peak-counter>8</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-ph nil="true"/>
+  <sample-source nil="true"/>
+  <sample-temperature nil="true"/>
+  <sample-temperature-units nil="true"/>
+  <searchable>true</searchable>
+  <solvent>CDCl3</solvent>
+  <spectra-assessment nil="true"/>
+  <updated-at>2014-09-20T22:18:32Z</updated-at>
+  <references>
+    <reference>
+      <database>SDBS</database>
+      <database-id>888</database-id>
+      <id>16795</id>
+      <pubmed-id nil="true"/>
+      <ref-text>SDBSWeb : http://sdbs.riodb.aist.go.jp (National Institute of Advanced Industrial Science and Technology, September 8, 2014)</ref-text>
+      <spectra-id>2643</spectra-id>
+      <spectra-type>NmrOneD</spectra-type>
+    </reference>
+  </references>
+  <nmr-one-d-peaks>
+    <nmr-one-d-peak>
+      <chemical-shift>2.58</chemical-shift>
+      <id>71120</id>
+      <intensity>45.0</intensity>
+      <nmr-one-d-id>2643</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>2.498</chemical-shift>
+      <id>71121</id>
+      <intensity>148.0</intensity>
+      <nmr-one-d-id>2643</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>2.417</chemical-shift>
+      <id>71122</id>
+      <intensity>169.0</intensity>
+      <nmr-one-d-id>2643</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>2.335</chemical-shift>
+      <id>71123</id>
+      <intensity>66.0</intensity>
+      <nmr-one-d-id>2643</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>2.139</chemical-shift>
+      <id>71124</id>
+      <intensity>1000.0</intensity>
+      <nmr-one-d-id>2643</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>1.136</chemical-shift>
+      <id>71125</id>
+      <intensity>269.0</intensity>
+      <nmr-one-d-id>2643</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>1.057</chemical-shift>
+      <id>71126</id>
+      <intensity>545.0</intensity>
+      <nmr-one-d-id>2643</nmr-one-d-id>
+    </nmr-one-d-peak>
+    <nmr-one-d-peak>
+      <chemical-shift>0.973</chemical-shift>
+      <id>71127</id>
+      <intensity>206.0</intensity>
+      <nmr-one-d-id>2643</nmr-one-d-id>
+    </nmr-one-d-peak>
+  </nmr-one-d-peaks>
+</nmr-one-d>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms-ms>
+  <collection-date nil="true"/>
+  <collision-energy-level nil="true"/>
+  <collision-energy-voltage>50</collision-energy-voltage>
+  <created-at>2012-08-31T15:36:28Z</created-at>
+  <database-id>HMDB04095</database-id>
+  <energy-field nil="true"/>
+  <id>6002</id>
+  <inchi-key>JTEJPPKMYBDEMY-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>LC-ESI-QQ (API3000, Applied Biosystems)</instrument-type>
+  <ionization-mode>Negative</ionization-mode>
+  <molecule-id nil="true"/>
+  <mono-mass nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>4</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2012-08-31T15:36:28Z</updated-at>
+  <references>
+    <reference>
+      <database>MassBank</database>
+      <database-id>KO001383</database-id>
+      <id>8205</id>
+      <pubmed-id>20623627</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>6002</spectra-id>
+      <spectra-type>MsMs</spectra-type>
+    </reference>
+  </references>
+  <ms-ms-peaks>
+    <ms-ms-peak>
+      <id>452637</id>
+      <intensity>0.1431431431</intensity>
+      <mass-charge>79.2</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>6002</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>452638</id>
+      <intensity>0.4764764765</intensity>
+      <mass-charge>128.1</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>6002</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>452639</id>
+      <intensity>1.0</intensity>
+      <mass-charge>143.9</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>6002</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>452640</id>
+      <intensity>0.4284284284</intensity>
+      <mass-charge>156.0</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>6002</ms-ms-id>
+    </ms-ms-peak>
+  </ms-ms-peaks>
+</ms-ms>

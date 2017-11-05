@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms-ms>
+  <collection-date nil="true"/>
+  <collision-energy-level nil="true"/>
+  <collision-energy-voltage nil="true"/>
+  <created-at>2012-08-31T15:07:20Z</created-at>
+  <database-id>HMDB00251</database-id>
+  <energy-field nil="true"/>
+  <id>3748</id>
+  <inchi-key>XOAAWQZATWQOTB-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>LC-ESI-ITFT (LTQ Orbitrap XL, Thermo Scientfic)</instrument-type>
+  <ionization-mode>Positive</ionization-mode>
+  <molecule-id nil="true"/>
+  <mono-mass nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>4</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2012-08-31T15:07:20Z</updated-at>
+  <references>
+    <reference>
+      <database>MassBank</database>
+      <database-id>KNA00274</database-id>
+      <id>5950</id>
+      <pubmed-id>20623627</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>3748</spectra-id>
+      <spectra-type>MsMs</spectra-type>
+    </reference>
+  </references>
+  <ms-ms-peaks>
+    <ms-ms-peak>
+      <id>341494</id>
+      <intensity>0.039039039</intensity>
+      <mass-charge>83.976486</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3748</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>341495</id>
+      <intensity>0.1791791792</intensity>
+      <mass-charge>102.010757</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3748</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>341496</id>
+      <intensity>1.0</intensity>
+      <mass-charge>129.983337</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3748</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>341497</id>
+      <intensity>0.007007007</intensity>
+      <mass-charge>131.012161</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3748</ms-ms-id>
+    </ms-ms-peak>
+  </ms-ms-peaks>
+</ms-ms>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmr-two-d>
+  <chemical-shift-reference>DSS</chemical-shift-reference>
+  <collection-date>2008-09-23</collection-date>
+  <created-at>2012-12-05T02:29:15Z</created-at>
+  <database-id>HMDB00845</database-id>
+  <frequency>600 MHz</frequency>
+  <id>1506</id>
+  <inchi-key>BMQYVXCPAOLZOK-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>Bruker</instrument-type>
+  <molecule-id nil="true"/>
+  <notes>HSQC</notes>
+  <nucleus-x>1H</nucleus-x>
+  <nucleus-y>13C</nucleus-y>
+  <peak-counter>4</peak-counter>
+  <sample-assessment>Excellent</sample-assessment>
+  <sample-concentration>40.0</sample-concentration>
+  <sample-concentration-units>mM</sample-concentration-units>
+  <sample-mass>10.1</sample-mass>
+  <sample-mass-units>mg</sample-mass-units>
+  <sample-ph>10.30</sample-ph>
+  <sample-source nil="true"/>
+  <sample-temperature>25.0</sample-temperature>
+  <sample-temperature-units>Celcius</sample-temperature-units>
+  <searchable>true</searchable>
+  <solvent>Water</solvent>
+  <spectra-assessment>Excellent</spectra-assessment>
+  <updated-at>2012-12-05T16:46:43Z</updated-at>
+  <references>
+    <reference>
+      <database>HMDB</database>
+      <database-id>HMDB00845</database-id>
+      <id>11789</id>
+      <pubmed-id>18953024</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1506</spectra-id>
+      <spectra-type>NmrTwoD</spectra-type>
+    </reference>
+  </references>
+  <nmr-two-d-peaks>
+    <nmr-two-d-peak>
+      <chemical-shift-x>8.6589</chemical-shift-x>
+      <chemical-shift-y>150.0554</chemical-shift-y>
+      <id>17634</id>
+      <intensity>0.0972442002</intensity>
+      <nmr-two-d-id>1506</nmr-two-d-id>
+    </nmr-two-d-peak>
+    <nmr-two-d-peak>
+      <chemical-shift-x>4.1351</chemical-shift-x>
+      <chemical-shift-y>76.6815</chemical-shift-y>
+      <id>17635</id>
+      <intensity>1.0</intensity>
+      <nmr-two-d-id>1506</nmr-two-d-id>
+    </nmr-two-d-peak>
+    <nmr-two-d-peak>
+      <chemical-shift-x>3.8363</chemical-shift-x>
+      <chemical-shift-y>65.0702</chemical-shift-y>
+      <id>17636</id>
+      <intensity>0.3857115825</intensity>
+      <nmr-two-d-id>1506</nmr-two-d-id>
+    </nmr-two-d-peak>
+    <nmr-two-d-peak>
+      <chemical-shift-x>3.7069</chemical-shift-x>
+      <chemical-shift-y>65.0702</chemical-shift-y>
+      <id>17637</id>
+      <intensity>0.5545244871</intensity>
+      <nmr-two-d-id>1506</nmr-two-d-id>
+    </nmr-two-d-peak>
+  </nmr-two-d-peaks>
+</nmr-two-d>

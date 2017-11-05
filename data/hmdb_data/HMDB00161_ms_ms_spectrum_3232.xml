@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms-ms>
+  <collection-date nil="true"/>
+  <collision-energy-level nil="true"/>
+  <collision-energy-voltage nil="true"/>
+  <created-at>2012-08-31T14:58:59Z</created-at>
+  <database-id>HMDB00161</database-id>
+  <energy-field nil="true"/>
+  <id>3232</id>
+  <inchi-key>QNAYBMKLOCPYGJ-REOHCLBHSA-N</inchi-key>
+  <instrument-type>CE-ESI-TOF (CE-system connected to 6210 Time-of-Flight MS, Agilent)</instrument-type>
+  <ionization-mode>Positive</ionization-mode>
+  <molecule-id nil="true"/>
+  <mono-mass nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>4</peak-counter>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2012-08-31T14:58:59Z</updated-at>
+  <references>
+    <reference>
+      <database>MassBank</database>
+      <database-id>PR030001</database-id>
+      <id>5434</id>
+      <pubmed-id>20623627</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>3232</spectra-id>
+      <spectra-type>MsMs</spectra-type>
+    </reference>
+  </references>
+  <ms-ms-peaks>
+    <ms-ms-peak>
+      <id>308113</id>
+      <intensity>1.0</intensity>
+      <mass-charge>90.054</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3232</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>308114</id>
+      <intensity>0.023023023</intensity>
+      <mass-charge>90.1726</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3232</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>308115</id>
+      <intensity>0.034034034</intensity>
+      <mass-charge>91.0575</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3232</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>308116</id>
+      <intensity>0.011011011</intensity>
+      <mass-charge>112.0354</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>3232</ms-ms-id>
+    </ms-ms-peak>
+  </ms-ms-peaks>
+</ms-ms>

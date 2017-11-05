@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-ms>
+  <base-peak nil="true"/>
+  <chromatography-type>GC</chromatography-type>
+  <collection-date nil="true"/>
+  <column-type>5%-phenyl-95%-dimethylpolysiloxane capillary column</column-type>
+  <created-at>2014-06-16T08:07:37Z</created-at>
+  <database-id>HMDB00532</database-id>
+  <derivative-formula>C7H15NO3Si</derivative-formula>
+  <derivative-mw>189.285</derivative-mw>
+  <derivative-type>1 TMS</derivative-type>
+  <id>1013</id>
+  <inchi-key>OKJIRPAQVSHGFK-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>GC-MS</instrument-type>
+  <ionization-mode nil="true"/>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>28</peak-counter>
+  <retention-index>1280.52</retention-index>
+  <retention-time nil="true"/>
+  <ri-type>based on 9 n-alkanes (C10–C36)</ri-type>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2014-06-16T08:07:37Z</updated-at>
+  <references>
+    <reference>
+      <database>Golm</database>
+      <database-id>bd926728-5291-46c7-ab74-22b966debde7</database-id>
+      <id>13017</id>
+      <pubmed-id>20526350</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1013</spectra-id>
+      <spectra-type>CMs</spectra-type>
+    </reference>
+  </references>
+  <c-ms-peaks>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107449</id>
+      <intensity>0.269</intensity>
+      <mass-charge>72.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107450</id>
+      <intensity>0.107</intensity>
+      <mass-charge>76.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107451</id>
+      <intensity>0.104</intensity>
+      <mass-charge>88.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107452</id>
+      <intensity>0.091</intensity>
+      <mass-charge>101.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107453</id>
+      <intensity>0.13</intensity>
+      <mass-charge>102.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107454</id>
+      <intensity>0.756</intensity>
+      <mass-charge>104.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107455</id>
+      <intensity>0.101</intensity>
+      <mass-charge>117.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107456</id>
+      <intensity>1.0</intensity>
+      <mass-charge>130.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107457</id>
+      <intensity>0.107</intensity>
+      <mass-charge>131.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107458</id>
+      <intensity>0.536</intensity>
+      <mass-charge>132.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107459</id>
+      <intensity>0.821</intensity>
+      <mass-charge>145.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107460</id>
+      <intensity>0.114</intensity>
+      <mass-charge>146.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107461</id>
+      <intensity>0.831</intensity>
+      <mass-charge>174.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1013</c-ms-id>
+      <id>107462</id>
+      <intensity>0.097</intensity>
+      <mass-charge>175.0</mass-charge>
+    </c-ms-peak>
+  </c-ms-peaks>
+</c-ms>

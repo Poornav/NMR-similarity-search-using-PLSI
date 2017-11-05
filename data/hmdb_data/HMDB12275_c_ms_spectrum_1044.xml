@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-ms>
+  <base-peak nil="true"/>
+  <chromatography-type>GC</chromatography-type>
+  <collection-date nil="true"/>
+  <column-type>5%-phenyl-95%-dimethylpolysiloxane capillary column</column-type>
+  <created-at>2014-06-16T08:08:21Z</created-at>
+  <database-id>HMDB12275</database-id>
+  <derivative-formula>C11H19NSi</derivative-formula>
+  <derivative-mw>193.361</derivative-mw>
+  <derivative-type>1 TMS</derivative-type>
+  <id>1044</id>
+  <inchi-key>BHHGXPLMPWCGHP-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>GC-MS</instrument-type>
+  <ionization-mode nil="true"/>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>38</peak-counter>
+  <retention-index>2281.26</retention-index>
+  <retention-time nil="true"/>
+  <ri-type>based on 9 n-alkanes (C10–C36)</ri-type>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2014-06-16T08:08:21Z</updated-at>
+  <references>
+    <reference>
+      <database>Golm</database>
+      <database-id>785bc8de-0b79-413d-916d-fa7c541b4810</database-id>
+      <id>13048</id>
+      <pubmed-id>20526350</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1044</spectra-id>
+      <spectra-type>CMs</spectra-type>
+    </reference>
+  </references>
+  <c-ms-peaks>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111362</id>
+      <intensity>0.022</intensity>
+      <mass-charge>72.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111363</id>
+      <intensity>0.124</intensity>
+      <mass-charge>77.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111364</id>
+      <intensity>0.042</intensity>
+      <mass-charge>78.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111365</id>
+      <intensity>0.1</intensity>
+      <mass-charge>79.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111366</id>
+      <intensity>0.05</intensity>
+      <mass-charge>86.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111367</id>
+      <intensity>0.012</intensity>
+      <mass-charge>89.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111368</id>
+      <intensity>0.252</intensity>
+      <mass-charge>91.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111369</id>
+      <intensity>0.008</intensity>
+      <mass-charge>92.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111370</id>
+      <intensity>0.048</intensity>
+      <mass-charge>100.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111371</id>
+      <intensity>0.015</intensity>
+      <mass-charge>101.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111372</id>
+      <intensity>1.0</intensity>
+      <mass-charge>102.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111373</id>
+      <intensity>0.163</intensity>
+      <mass-charge>103.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111374</id>
+      <intensity>0.145</intensity>
+      <mass-charge>104.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111375</id>
+      <intensity>0.192</intensity>
+      <mass-charge>105.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111376</id>
+      <intensity>0.01</intensity>
+      <mass-charge>116.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111377</id>
+      <intensity>0.014</intensity>
+      <mass-charge>121.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111378</id>
+      <intensity>0.004</intensity>
+      <mass-charge>161.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111379</id>
+      <intensity>0.095</intensity>
+      <mass-charge>178.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>1044</c-ms-id>
+      <id>111380</id>
+      <intensity>0.002</intensity>
+      <mass-charge>179.0</mass-charge>
+    </c-ms-peak>
+  </c-ms-peaks>
+</c-ms>

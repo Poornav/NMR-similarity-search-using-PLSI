@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c-ms>
+  <base-peak nil="true"/>
+  <chromatography-type>GC</chromatography-type>
+  <collection-date nil="true"/>
+  <column-type>5%-phenyl-95%-dimethylpolysiloxane capillary column</column-type>
+  <created-at>2014-06-16T08:54:12Z</created-at>
+  <database-id>HMDB02124</database-id>
+  <derivative-formula>C24H34O5Si3</derivative-formula>
+  <derivative-mw>486.781</derivative-mw>
+  <derivative-type>3 TMS</derivative-type>
+  <id>2251</id>
+  <inchi-key>KZNIFHPLKGYRTM-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>GC-MS</instrument-type>
+  <ionization-mode nil="true"/>
+  <molecule-id nil="true"/>
+  <notes nil="true"/>
+  <peak-counter>20</peak-counter>
+  <retention-index>3161.36</retention-index>
+  <retention-time nil="true"/>
+  <ri-type>based on 9 n-alkanes (C10–C36)</ri-type>
+  <sample-assessment nil="true"/>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment nil="true"/>
+  <updated-at>2014-06-16T08:54:12Z</updated-at>
+  <references>
+    <reference>
+      <database>Golm</database>
+      <database-id>a9350e28-3a0f-487d-8806-06fd667cede0</database-id>
+      <id>14255</id>
+      <pubmed-id>20526350</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>2251</spectra-id>
+      <spectra-type>CMs</spectra-type>
+    </reference>
+  </references>
+  <c-ms-peaks>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353828</id>
+      <intensity>0.013</intensity>
+      <mass-charge>177.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353829</id>
+      <intensity>0.126</intensity>
+      <mass-charge>228.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353830</id>
+      <intensity>0.039</intensity>
+      <mass-charge>327.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353831</id>
+      <intensity>0.014</intensity>
+      <mass-charge>370.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353832</id>
+      <intensity>0.072</intensity>
+      <mass-charge>399.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353833</id>
+      <intensity>0.041</intensity>
+      <mass-charge>469.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353834</id>
+      <intensity>1.0</intensity>
+      <mass-charge>471.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353835</id>
+      <intensity>0.396</intensity>
+      <mass-charge>472.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353836</id>
+      <intensity>0.18</intensity>
+      <mass-charge>473.0</mass-charge>
+    </c-ms-peak>
+    <c-ms-peak>
+      <c-ms-id>2251</c-ms-id>
+      <id>353837</id>
+      <intensity>0.038</intensity>
+      <mass-charge>474.0</mass-charge>
+    </c-ms-peak>
+  </c-ms-peaks>
+</c-ms>

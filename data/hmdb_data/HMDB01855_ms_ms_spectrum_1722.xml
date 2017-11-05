@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ms-ms>
+  <collection-date>2012-01-05</collection-date>
+  <collision-energy-level>high</collision-energy-level>
+  <collision-energy-voltage>40</collision-energy-voltage>
+  <created-at>2012-07-24T21:23:23Z</created-at>
+  <database-id>HMDB01855</database-id>
+  <energy-field nil="true"/>
+  <id>1722</id>
+  <inchi-key>KQROHCSYOGBQGJ-UHFFFAOYSA-N</inchi-key>
+  <instrument-type>Quattro_QQQ</instrument-type>
+  <ionization-mode>Positive</ionization-mode>
+  <molecule-id>1722</molecule-id>
+  <mono-mass nil="true"/>
+  <notes>delivery=Flow_Injection
+analyzer=Triple_Quad</notes>
+  <peak-counter>2060</peak-counter>
+  <sample-assessment>Excellent</sample-assessment>
+  <sample-concentration nil="true"/>
+  <sample-concentration-units nil="true"/>
+  <sample-mass nil="true"/>
+  <sample-mass-units nil="true"/>
+  <sample-source nil="true"/>
+  <solvent nil="true"/>
+  <spectra-assessment>Excellent</spectra-assessment>
+  <updated-at>2012-08-08T17:51:49Z</updated-at>
+  <references>
+    <reference>
+      <database>HMDB</database>
+      <database-id>HMDB01855</database-id>
+      <id>1722</id>
+      <pubmed-id>18953024</pubmed-id>
+      <ref-text nil="true"/>
+      <spectra-id>1722</spectra-id>
+      <spectra-type>MsMs</spectra-type>
+    </reference>
+  </references>
+  <ms-ms-peaks>
+    <ms-ms-peak>
+      <id>117575</id>
+      <intensity>29.5949477121</intensity>
+      <mass-charge>105.12</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>117741</id>
+      <intensity>88.761469429</intensity>
+      <mass-charge>115.08</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>117757</id>
+      <intensity>10.2849819791</intensity>
+      <mass-charge>116.04</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>117774</id>
+      <intensity>62.6218549572</intensity>
+      <mass-charge>117.06</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>117992</id>
+      <intensity>18.1857895188</intensity>
+      <mass-charge>130.14</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>118009</id>
+      <intensity>15.243707707</intensity>
+      <mass-charge>131.16</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>118025</id>
+      <intensity>37.0481274546</intensity>
+      <mass-charge>132.12</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>118042</id>
+      <intensity>28.0786123845</intensity>
+      <mass-charge>133.14</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>118192</id>
+      <intensity>25.6850423283</intensity>
+      <mass-charge>142.14</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>118209</id>
+      <intensity>31.9074856787</intensity>
+      <mass-charge>143.16</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>118258</id>
+      <intensity>34.775562523</intensity>
+      <mass-charge>146.1</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>118475</id>
+      <intensity>52.5707590484</intensity>
+      <mass-charge>159.12</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+    <ms-ms-peak>
+      <id>118492</id>
+      <intensity>100.0</intensity>
+      <mass-charge>160.14</mass-charge>
+      <molecule-id nil="true"/>
+      <ms-ms-id>1722</ms-ms-id>
+    </ms-ms-peak>
+  </ms-ms-peaks>
+</ms-ms>
