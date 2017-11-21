@@ -3,7 +3,7 @@ import numpy as np
 from Helper import *
 import matplotlib.pyplot as plt 
 import sys , getopt
-
+from operator import itemgetter
 
 
 
@@ -67,11 +67,10 @@ def main(argv):
     #number of iterations for the EM update rule
     MAX_ITR = 100
     EPSILON = 0.001
-    print("hello")
     #file is the text file that contains all the documents.
     #@Poornav check this part; 
     #Each line in a file is a document; 
-    f = "data.txt"   
+    f = "data_current_dataset.txt"   
     docs = {"documents":[], "vocab":[]}
     proccessed = 0
     #vocabulary file ( -v when called from CLI will override this info )
@@ -183,8 +182,19 @@ def main(argv):
     res_file.close()
     plot_convergence(likelihood_vals, Z, restuls["Top"])
 
-
-
+    ##defining the similiarity measure; top k similiar docs
+    k = 3
+    sim = list()
+    ##q is the query NMR
+    q = docs['documents'][0]
+    for d in docs['documents']:
+        sim.append([d,helper.similiarity(d,q,docs['documents'], docs['vocab'])])
+    sim = sorted(sim, key = itemgetter(1) , reverse = True)
+    print('Top similiar documents')
+    for i in k:
+        print(sim[i][0] , ': similiarity measure: ; ', sim[i][1])
+    
+    
 
 if __name__ == "__main__":
     main(sys.argv[1:])

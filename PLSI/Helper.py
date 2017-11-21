@@ -165,3 +165,29 @@ class Helper(object):
 
     def writeResult(p_wz,p_dz,p_z,vocab):
       return 0
+
+  	## Run the similiarity for every doc. 
+  	## using equation 11 in the PLSI paaper
+    def similiarity(self, d,q, docs,vocab):
+  		
+  		def n(d,w):
+  			return d.count(w)
+
+  		def idf(d,w):
+  			return np.log(len(docs)/n(d,w))
+
+
+  		def n_cap(d,w):
+  			return idf(d,w) * n(d,w) #have to change this to p(w/d) and lambd stuff
+
+  		num = 0
+  		den_part = 0
+  		den = 0
+
+  		for w in vocab:
+  			num += n_cap(d,w) * n_cap(q,w)
+  			den_part += n_cap(q,w) ** 2
+  			den += n_cap(d,w) ** 2
+
+  		sim = num/(np.sqrt(den_part)*np.sqrt(den))
+  		return sim
