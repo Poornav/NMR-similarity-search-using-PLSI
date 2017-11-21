@@ -13,8 +13,7 @@ class Helper(object):
                     content = content_file.read()
     
         docs = re.split("\n",content)
-        vocab = list(set(re.split("\s+",re.sub("\n"," ",content))))
-
+        vocab = list(set(re.split(";",re.sub("\n",";",content))))
         #Check the number of documents is the correct one
         nbDocs = docs[0];
         if(int(nbDocs) != (len(docs)-1) ):
@@ -24,7 +23,7 @@ class Helper(object):
         
         docs_processed = []
         for d in docs:
-            words = re.split("\s+",d)
+            words = re.split(";",d)
             frequencies = collections.Counter(words)
             word_frequencies = {vocab.index(w):count for w,count in frequencies.items()}
             docs_processed.append(word_frequencies)

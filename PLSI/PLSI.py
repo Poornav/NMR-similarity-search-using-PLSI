@@ -51,7 +51,8 @@ def process_raw(f):
 
     if(len(docs["documents"])>0):
         helper.writeProcessedData(docs["documents"],docs["vocab"], "Processed_data.txt")
-    
+    print(docs["documents"][0:4])
+    print(docs["vocab"][0:4])
     return(docs)
 #if processed_data.txt already exists, this function is called.
 def get_processedData(f, vocab_file):
@@ -173,7 +174,7 @@ def main(argv):
     print("Getting the list of topwords")
     restuls = helper.GetTopword(p_wz,docs["vocab"],10)
 
-    print("Writting results to file results.txt\n")
+    print("Writing results to file results.txt\n")
     res_file = open("results.txt","w")
     for i in range(len(restuls["Top"])):
         res_file.write( "%s\n" % " ".join(restuls["Top"][i]))
